@@ -1,6 +1,6 @@
 # Electronics Product Ratings Analysis
 
-This repository contains my analysis for the Onyx Data #dataDNA – Dataset Challenge of February 2024.
+I took part in the Onyx Data DataDNA Challenge, February 2024. I delved into Electronics Product Ratings, using Power BI for data profiling, cleaning, modeling, and visualization.
 
 ## Dataset
 
