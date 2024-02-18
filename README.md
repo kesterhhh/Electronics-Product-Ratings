@@ -20,4 +20,4 @@ This project involves diving deep into the world of Electronics Product Ratings.
 
 To participate in this challenge or view the dataset, [visit](https://www.linkedin.com/posts/onyxdata_onyx-data-datadna-challenge-february-2024-activity-7158730743907536896-Jj-W?utm_source=share&utm_medium=member_desktop)
 
-![](vehicle.jpg)
+![](electronic-product-ratings.jpg)
